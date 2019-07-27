@@ -1,0 +1,38 @@
+.poker{
+	width: 127.75px;
+	height: 176.83px;
+}
+.bgc-E9{
+	background-color: #E9BD5E;
+}
+.color-white{
+	color: white;
+}
+.font-12{
+	font-size: 12px;
+}
+.flex-end{
+	display: flex;
+	justify-content: flex-end;
+}
+.margin0{
+	margin:0;
+}
+.birdimage{
+	max-height: 100px;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+}
+.numtop{
+	padding-left: 13px;
+}
+.paddingtop{
+	padding-top: 8.95px;
+}
+.numbot{
+	padding-right: 13.34px;
+}
+.paddingbot{
+	padding-bottom: 9.26px;
+}
